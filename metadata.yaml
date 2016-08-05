@@ -1,0 +1,27 @@
+_repo: American-Prisoners-of-the-Revolution_7829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dandridge, Danske
+    alias: Dandridge, Danske Bedinger
+    birthdate: 1858
+    deathdate: 1914
+    gutenberg_agent_id: '2547'
+    url: http://www.gutenberg.org/2009/agents/2547
+description: Provides a definitive work on Americans taken prisoner during the Revolutionary
+  War. The bulk of the book is devoted to personal accounts endured by U.S. prisoners
+  at the hands of the British.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Prisoners and prisons'
+- !lcc 'E201'
+- GITenberg
+title: American Prisoners of the Revolution
+url: http://www.gutenberg.org/ebooks/7829
