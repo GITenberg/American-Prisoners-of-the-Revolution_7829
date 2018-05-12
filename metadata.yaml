@@ -1,5 +1,8 @@
 _repo: American-Prisoners-of-the-Revolution_7829
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dandridge, Danske
@@ -11,6 +14,8 @@ creator:
 description: Provides a definitive work on Americans taken prisoner during the Revolutionary
   War. The bulk of the book is devoted to personal accounts endured by U.S. prisoners
   at the hands of the British.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7829#American-Prisoners-of-the-Revolution
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
